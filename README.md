@@ -1,2 +1,2 @@
-# Payroll-management-System-in-C-
+# Payroll-management-System-in-CPP
 Mini Project for CSE
